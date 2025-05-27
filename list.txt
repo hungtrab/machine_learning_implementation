@@ -1,0 +1,13 @@
+List of model to done:
+
++ Classic Machine Learning:
+
+1. Linear Regression
+2. Logistic Regression
+3. KNN
+4. K-Means
+5. SVM
+6. Decision Tree
+7. Random Forest
+8. XGBoost
+9. 
